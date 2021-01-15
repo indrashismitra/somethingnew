@@ -1,0 +1,10 @@
+💭   🏁: Special part of the language after which comes a code block 
+💭   🍇: Indicates the start of code block
+💭   🍉: Indicates the end of code block
+💭   🔤Hello world!🔤: It is a string literal
+💭   😀: Starts the print method
+💭    ❗️ : Ends the print method
+
+🏁  🍇
+  😀 🔤Hello people! Trying out emojicode!!🔤❗️
+🍉
